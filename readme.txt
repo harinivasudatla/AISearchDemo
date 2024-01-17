@@ -1,3 +1,4 @@
+Steps to run the project
 Step 1: Create a conda virtual environment using the command : conda create --name <env_name> python=<python_version>
 Step 2: Activate the conda environment using conda activate <env_name>
 Step 3: Install the requirements.txt
