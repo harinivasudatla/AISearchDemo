@@ -3,7 +3,7 @@
 This is project can be used only for demo purposes 
 Author: Harini Datla
 ############################################################
-s"""
+"""
 import streamlit as st
 from PyPDF2 import PdfReader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
